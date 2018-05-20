@@ -1,7 +1,4 @@
-# hello-world
-GitHub Guides
-
-THE Book List:
+Book List:
   [Sedgewick]
   [CLRS]
   [TAOCP]
